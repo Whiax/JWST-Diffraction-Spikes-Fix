@@ -20,3 +20,6 @@ Better results can be achieved with more time and resources.
 ## Results
 Overall the model seems to work on most images. It still leaves some post-processing artifacts.  
 The dataset may underepresent nebulae and very large diffraction spikes, leading in less accurate results in these conditions.
+
+##
+⭐ If you like this repo, thanks! 🙏
