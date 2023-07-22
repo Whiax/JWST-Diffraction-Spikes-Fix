@@ -1,5 +1,5 @@
 # JWST Diffraction Spikes Fix (PoC) ✨
-This repository contains a deep learning model to remove diffraction spikes from JWST images.  
+This repository contains a deep learning model to reduce diffraction spikes from JWST images.  
 JWST images show diffraction spikes due to how starlight is captured by the satellite.  
 The information hidden by these diffraction spikes can't be recovered.  
 However, for aesthetic purposes, I have tried to reduce these spikes with a DL algorithm.  
